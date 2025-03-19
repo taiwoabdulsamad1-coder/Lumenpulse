@@ -1,0 +1,42 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Cedarich-patch-1",
+    "Cedarich-patch-2",
+    "Integration",
+    "chores",
+    "feat/soroban-add-voting-rewards-contracts",
+    "feat/soroban-migration",
+    "fix/1080-trusted-caller-verification",
+    "fixes",
+    "frontend-setup",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Cedarich-patch-1": "main",
+    "Cedarich-patch-2": "main",
+    "Integration": "main",
+    "chores": "main",
+    "feat/soroban-add-voting-rewards-contracts": "main",
+    "feat/soroban-migration": "main",
+    "fix/1080-trusted-caller-verification": "main",
+    "fixes": "main",
+    "frontend-setup": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Cedarich-patch-1",
+    "Cedarich-patch-2",
+    "Integration",
+    "chores",
+    "feat/soroban-add-voting-rewards-contracts",
+    "feat/soroban-migration",
+    "fix/1080-trusted-caller-verification",
+    "fixes",
+    "frontend-setup",
+    "origin"
+  ]
+}
