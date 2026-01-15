@@ -2,5 +2,7 @@
 members = [
     "contracts/lumenpulse",
     "contracts/news",
+    "contracts/voting",
+    "contracts/rewards",
 ]
 resolver = "2"
