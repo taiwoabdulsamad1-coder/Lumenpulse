@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "contracts/lumenpulse",
+    "contracts/news",
+]
+resolver = "2"

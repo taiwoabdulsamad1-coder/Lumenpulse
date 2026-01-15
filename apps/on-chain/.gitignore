@@ -1,5 +1,10 @@
-target
-.snfoundry_cache/
-snfoundry_trace/
-coverage/
-profile/
+# Soroban/Rust build artifacts
+/target/
+**/*.wasm
+Cargo.lock
+
+# Soroban CLI state
+.soroban/
+
+# Node/npm junk if any
+node_modules/
